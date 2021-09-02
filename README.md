@@ -1,6 +1,6 @@
 # covid19-ABM
 
-This repository includes the code for the model studied in [**Investigating Dynamics of COVID-19 Spread and Containment with Agent-Based Modeling**](https://www.mdpi.com/2076-3417/11/12/5367). It is an epidemic agent-based model that simulates the spread of Covid-19 epidemic. ```Normal.nlogo``` is the main file, while ```Exploring-zoning.nlogo``` and ```Exploring-Testing-With-Tracking.nlogo``` are modefied models to test the two strategies and run experiments. 
+This repository includes the code for the paper [**Investigating Dynamics of COVID-19 Spread and Containment with Agent-Based Modeling**](https://www.mdpi.com/2076-3417/11/12/5367). It is an epidemic agent-based model that simulates the spread of Covid-19 epidemic. ```Normal.nlogo``` is the main file, while ```Exploring-zoning.nlogo``` and ```Exploring-Testing-With-Tracking.nlogo``` are modefied models to test the two strategies and run experiments. 
 
 If you use this code, please cite the corresponding paper:
 
